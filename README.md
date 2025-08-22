@@ -88,8 +88,6 @@ Soy un ingeniero apasionado por el desarrollo de soluciones reales mediante el u
 <p>
 LINQ
 SOAP UI 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Jira_logo.svg" width="40" height="40" title="Jira"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/ClickUp_logo.svg" width="40" height="40" title="ClickUp"/>
 </p>
 
 ### 🖥️ Sistemas Operativos  
