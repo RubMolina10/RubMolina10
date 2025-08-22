@@ -85,9 +85,8 @@ Soy un ingeniero apasionado por el desarrollo de soluciones reales mediante el u
 ### 🧰 Otras herramientas  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linq/linq-original.svg" width="40" height="40" title="LINQ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/soapui/soapui-original.svg" width="40" height="40" title="SOAP UI"/>
-</p>  
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" width="40" height="40" title="SOAP UI / API"/>
+</p> 
 ### 🖥️ Sistemas Operativos  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
