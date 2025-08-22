@@ -83,10 +83,18 @@ Soy un ingeniero apasionado por el desarrollo de soluciones reales mediante el u
 </p>  
 
 ### 🧰 Otras herramientas  
-LINQ, SOAP UI  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linq/linq-original.svg" width="40" height="40" title="LINQ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/soapui/soapui-original.svg" width="40" height="40" title="SOAP UI"/>
+</p>  
 
 ### 🖥️ Sistemas Operativos  
-Linux | Windows | MacOS  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" title="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" title="MacOS"/>
+</p>
+ 
 
 ---
 
