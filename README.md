@@ -85,16 +85,15 @@ Soy un ingeniero apasionado por el desarrollo de soluciones reales mediante el u
 ### 🧰 Otras herramientas  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linq/linq-original.svg" width="40" height="40" title="LINQ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" width="40" height="40" title="SOAP UI / API"/>
-</p> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/SoapUI_Logo.png" width="40" height="40" title="SOAP UI"/>
+</p>  
+
 ### 🖥️ Sistemas Operativos  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" title="Windows"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" title="MacOS"/>
 </p>
- 
-
 ---
 
 ## 📚 Formación Académica  
