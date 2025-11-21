@@ -96,7 +96,6 @@ SOAP UI
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" title="Windows"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" title="MacOS"/>
 </p>
----
 
 ## 📚 Formación Académica  
 
