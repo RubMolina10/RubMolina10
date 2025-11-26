@@ -20,9 +20,14 @@ Soy un ingeniero apasionado por el desarrollo de soluciones reales mediante el u
 
 ### Spyral Systems | *Desarrollador de Software*  
 **Abril 2025 – Actualidad**  
-- Desarrollo de soluciones web y backend para clientes diversos.  
-- Participación en la implementación de proyectos enfocados en eficiencia y automatización de procesos.  
-- Uso de tecnologías modernas como .NET, Vue.js, REST APIs y gestión de bases de datos SQL y NoSQL.  
+- Desarrollo de soluciones web y backend para clientes de diferentes industrias.
+- Implementación de proyectos orientados a eficiencia operativa, automatización de procesos y mejora continua.
+- Uso de tecnologías modernas como .NET 6+, Vue.js 3, REST APIs, y gestión de bases de datos SQL Server y MongoDB.
+- Participación en el diseño y desarrollo de portales empresariales con funcionalidades integradas de IA, enfocados en asistencias inteligentes, flujos conversacionales y análisis automatizado de información.
+- Construcción de interfaces interactivas en Vue.js, integradas con módulos de IA para recomendaciones, validación inteligente y navegación guiada.
+- Desarrollo de APIs REST en C# implementando servicios, patrones de arquitectura, lógica de negocio y persistencia en SQL/MongoDB, incluyendo historiales conversacionales y procesamiento avanzado de datos.
+- Integración de tecnologías como SignalR/WebSockets, AutoMapper, log4net y Serilog para comunicación en tiempo real, trazabilidad y observabilidad.
+- Optimización y automatización de procesos mediante IA, logrando reducir tiempos operativos y mejorar la experiencia de usuario en los portales implementados. 
 
 ### Coppel S.A. de C.V. | *Desarrollador de Software – Contabilidad y Finanzas*  
 **Agosto 2022 – Marzo 2025**  
