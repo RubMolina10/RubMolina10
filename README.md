@@ -18,7 +18,7 @@ Soy un ingeniero apasionado por el desarrollo de soluciones reales mediante el u
 
 ## 💼 Experiencia profesional  
 
-### Spyral Systems | *Desarrollador de Software*  
+### Spyral Systems |Azzule Sytems | *Desarrollador de Software*  
 **Abril 2025 – Actualidad**  
 - Desarrollo de soluciones web y backend para clientes de diferentes industrias.
 - Implementación de proyectos orientados a eficiencia operativa, automatización de procesos y mejora continua.
@@ -27,14 +27,21 @@ Soy un ingeniero apasionado por el desarrollo de soluciones reales mediante el u
 - Construcción de interfaces interactivas en Vue.js, integradas con módulos de IA para recomendaciones, validación inteligente y navegación guiada.
 - Desarrollo de APIs REST en C# implementando servicios, patrones de arquitectura, lógica de negocio y persistencia en SQL/MongoDB, incluyendo historiales conversacionales y procesamiento avanzado de datos.
 - Integración de tecnologías como SignalR/WebSockets, AutoMapper, log4net y Serilog para comunicación en tiempo real, trazabilidad y observabilidad.
-- Optimización y automatización de procesos mediante IA, logrando reducir tiempos operativos y mejorar la experiencia de usuario en los portales implementados. 
+- Optimización y automatización de procesos mediante IA, logrando reducir tiempos operativos y mejorar la experiencia de usuario en los portales implementados.
+- Proyectos destacados: AzzuleAI(Portal Web el cual realiza automatizaciones de procesos via Prompts con Lenguaje Natural)
 
 ### Coppel S.A. de C.V. | *Desarrollador de Software – Contabilidad y Finanzas*  
 **Agosto 2022 – Marzo 2025**  
-- Diseño, implementación y mantenimiento de soluciones para sistemas financieros (facturación, nómina, impuestos).  
-- Proyectos clave: MultiIEPS, venta de motos, app de monitoreo de transacciones.  
-- Tecnologías: .NET C#, Java, C++, Spring Boot, SQL Server, PostgreSQL.  
-- Enfoque en seguridad, mitigación de vulnerabilidades y respuesta ante ciberataques.  
+- Desarrollo y mantenimiento: Diseño, implementación y mantenimiento
+de soluciones para sistemas contables y financieros, incluyendo
+facturación, nómina y gestión de impuestos.
+- Proyectos estratégicos: Participación en proyectos clave como
+MultiIEPS, venta de motos y desarrollo de una aplicación de monitoreo de
+transacciones con .NET C#.
+- Tecnologías: Experiencia en C#, C++, Java, SQL (PostgreSQL, SQL
+Server), Java Spring Boot.
+- Seguridad: Mitigación de vulnerabilidades, remediación de código y
+habilitación de sistemas en casos de ciberataques.
 
 ### FEOSS  
 **Enero 2018 – Enero 2022**  
