@@ -97,7 +97,7 @@ habilitación de sistemas en casos de ciberataques.
 </p>  
 
 🧰 Otras herramientas
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" title="Jira"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" title="Planner (Microsoft)"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/> </p>
+<p> <img src="https://cdn.simpleicons.org/plane/008080" width="40" height="40" title="Plane"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" title="Jira"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/> </p>
 <p> LINQ <br>
 SOAP UI </p>
 
