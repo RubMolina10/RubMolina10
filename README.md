@@ -96,11 +96,10 @@ habilitación de sistemas en casos de ciberataques.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
 </p>  
 
-### 🧰 Otras herramientas 
-<p>
-LINQ
-SOAP UI 
-</p>
+🧰 Otras herramientas
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" title="Jira"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" title="Planner (Microsoft)"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/> </p>
+<p> LINQ <br>
+SOAP UI </p>
 
 ### 🖥️ Sistemas Operativos  
 <p>
